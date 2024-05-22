@@ -1,8 +1,8 @@
 /**
  * The intelligent programming car produced by ELECFREAKS Co.ltd
  */
-//% weight=0 color=#32b9b9 icon="\uf1b9"
-//% block="TPBot" 
+//% weight=0 color=#000000 icon="\uf1b9"
+//% block="CubeBot" 
 namespace TPBot {
     const TPBotAdd = 0X10
     let Buff = pins.createBuffer(4);
